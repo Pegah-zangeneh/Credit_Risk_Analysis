@@ -6,6 +6,8 @@ Using the credit card credit dataset from LendingClub, We suposed to use differe
 
 ![Dataset:](Resources/Dataset.png)
 
+
+
 ## Results:
 Below is the combination of all Models result based on the imbalanced classification reports:
 
